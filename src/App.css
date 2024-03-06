@@ -1,0 +1,10 @@
+/*...................... Nav Bar........................... */
+.input-search{
+  width: 450px !important;
+}
+.icons-links{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+/*...................... Nav Bar........................... */
