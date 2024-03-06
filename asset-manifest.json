@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MyntraWebsite/static/css/main.ed0c8614.css",
+    "main.js": "/MyntraWebsite/static/js/main.6a63de1c.js",
+    "static/js/546.4339b5a9.chunk.js": "/MyntraWebsite/static/js/546.4339b5a9.chunk.js",
+    "static/js/719.c6c9abb7.chunk.js": "/MyntraWebsite/static/js/719.c6c9abb7.chunk.js",
+    "static/js/257.649e208f.chunk.js": "/MyntraWebsite/static/js/257.649e208f.chunk.js",
+    "index.html": "/MyntraWebsite/index.html",
+    "main.ed0c8614.css.map": "/MyntraWebsite/static/css/main.ed0c8614.css.map",
+    "main.6a63de1c.js.map": "/MyntraWebsite/static/js/main.6a63de1c.js.map",
+    "546.4339b5a9.chunk.js.map": "/MyntraWebsite/static/js/546.4339b5a9.chunk.js.map",
+    "719.c6c9abb7.chunk.js.map": "/MyntraWebsite/static/js/719.c6c9abb7.chunk.js.map",
+    "257.649e208f.chunk.js.map": "/MyntraWebsite/static/js/257.649e208f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0c8614.css",
+    "static/js/main.6a63de1c.js"
+  ]
+}

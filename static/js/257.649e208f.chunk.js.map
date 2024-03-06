@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/257.649e208f.chunk.js","mappings":"6IAEA,MAQA,EARcA,KAEVC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,S","sources":["navbar/Women.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst Women = () => {\r\n  return (\r\n    <div>\r\n      Women\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default Women;\r\n"],"names":["Women","_jsx","children"],"sourceRoot":""}
