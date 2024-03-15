@@ -2,6 +2,7 @@ import "./App.css";
 import NavBar from "./navbar/Navbar";
 import Routee from "./routing/Routee";
 import {Suspense} from 'react';
+import Carousal from "./carousalComponent/Carousal";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Suspense fallback={<h1>Loading............!</h1>}>
 
       <NavBar />
+    <Carousal/>
       <Routee />
       </Suspense>
 
