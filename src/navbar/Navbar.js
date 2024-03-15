@@ -11,7 +11,7 @@ const NavBar = () => {
       <nav className="navbar navbar-expand-lg bg-light">
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="/">
-            <img src="MLogo.png" width={"50px"} alt="" />
+            <img src="/MLogo.png" width={"50px"} alt="" />
           </NavLink>
           <button
             className="navbar-toggler"
